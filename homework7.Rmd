@@ -1,0 +1,28 @@
+---
+title: "Homework 7"
+output: html_document
+author: "Your Name"
+---
+
+## Data Analysis
+
+- Read this article: https://www.theatlantic.com/ideas/archive/2020/10/schools-arent-superspreaders/616669/
+- Explore the data here: https://statsiq.co1.qualtrics.com/statwing/statsiq/open-data/covid-19-school-response#workspaces/SWWS_27NLXCXIKApiieb
+
+## Summary
+
+Delete this text and write a brief one paragraph summary of what the two websites describe
+
+## Audience
+
+Delete this text and answer who you think the target audience of each analysis is
+
+## Exploration
+
+Delete this text and describe strengths and weaknesses of the data after you explore it
+
+## Alternative sources of information
+
+Delete this text and search for alternative data sources or papers about the issue of Covid in schools. Do these data match up? 
+
+
