@@ -19,7 +19,11 @@ Delete this text and answer who you think the target audience of each analysis i
 
 ## Exploration
 
-Delete this text and describe strengths and weaknesses of the data after you explore it
+Delete this text and describe strengths and weaknesses of the data after you explore it, include plots and screenshots from the tool
+
+## Raw data
+
+Delete this text and explain any analyses you would do if you had access to the raw data instead of the summaries 
 
 ## Alternative sources of information
 
